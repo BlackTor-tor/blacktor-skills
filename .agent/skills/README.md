@@ -27,3 +27,9 @@ For every new skill added to this repository:
 - `openclaw-git-backup` — scheduled git backup workflow for OpenClaw repositories
 
 See `./backup/README.md` for category details.
+
+## Helpers
+
+- `./CHECKLIST.md` — pre-push checklist for new skills
+- `./CATEGORIES.md` — suggested category naming guide
+- `./_templates/README.md` — starter templates for new skills

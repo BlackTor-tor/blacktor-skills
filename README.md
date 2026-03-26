@@ -44,3 +44,11 @@ When uploading a new skill to this repository, follow these rules:
 - skill name: lowercase kebab-case
 - avoid spaces
 - avoid machine-specific names unless they are intentionally product-specific
+
+## Repository helpers
+
+To keep future uploads consistent, also see:
+
+- `.agent/skills/CHECKLIST.md`
+- `.agent/skills/CATEGORIES.md`
+- `.agent/skills/_templates/README.md`
