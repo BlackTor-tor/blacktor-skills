@@ -52,3 +52,5 @@ To keep future uploads consistent, also see:
 - `.agent/skills/CHECKLIST.md`
 - `.agent/skills/CATEGORIES.md`
 - `.agent/skills/_templates/README.md`
+- `.agent/skills/METADATA.md`
+- `.agent/skills/REVIEW.md`

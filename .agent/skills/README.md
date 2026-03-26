@@ -33,3 +33,5 @@ See `./backup/README.md` for category details.
 - `./CHECKLIST.md` — pre-push checklist for new skills
 - `./CATEGORIES.md` — suggested category naming guide
 - `./_templates/README.md` — starter templates for new skills
+- `./METADATA.md` — `SKILL.md` frontmatter convention
+- `./REVIEW.md` — review standard before pushing new skills
