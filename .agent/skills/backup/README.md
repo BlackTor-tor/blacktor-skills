@@ -17,3 +17,14 @@ Purpose:
 - summarize added/modified/deleted files in commit messages
 - push backups to a remote repository
 - exclude scheduler noise when needed
+
+## Category rules
+
+New backup-related skills should:
+
+- live under `.agent/skills/backup/`
+- use one folder per skill unless the skill is intentionally file-only
+- include `SKILL.md` when the skill has behavior, scripts, or references
+- place runnable helpers under `scripts/`
+- place supporting documents under `references/`
+- use names that describe the workflow directly

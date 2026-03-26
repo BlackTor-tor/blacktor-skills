@@ -7,6 +7,19 @@ Skills are stored as:
 - `.agent/skills/<category>/<skill-name>/`
 - or `.agent/skills/<category>/<parent>/<child-file>` when a lightweight file layout is preferred
 
+## Upload standard
+
+For every new skill added to this repository:
+
+- choose a clear category
+- prefer one folder per skill
+- use lowercase kebab-case names
+- store executable helpers in `scripts/`
+- store supporting docs in `references/`
+- include `SKILL.md` for full skills
+- update this index
+- update the corresponding category README
+
 ## Categories
 
 ### backup
